@@ -4,13 +4,25 @@
   "private": true,
   "dependencies": {
     "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react-ionicons": "^2.1.6",
+    "react-motion-menu": "^0.4.4",
+    "react-scripts": "^1.1.4",
+    "react-tooltip": "^3.6.1",
+    "react-typist": "^2.0.4",
+    "scroll-to-element": "^2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
